@@ -1,0 +1,4 @@
+@EndUserText.label: 'Order service'
+define service ZUI_RAM_ORD_DEF {
+  expose ZC_RAM_ORDER;
+}
